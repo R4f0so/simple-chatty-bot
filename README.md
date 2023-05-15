@@ -1,7 +1,7 @@
 # simple-chatty-bot
 
 Este projeto faz parte do "Frontend Core Track" da JetBrains Academy e tem como finalidade ensinar a sintaxe básica da linguagem JavaScript enquanto elaboramos um projeto de um chatbot simples que
-utiliza conceitos fundamentais de variáveis, condições, loops e funções. Todo o projeto foi feito na IDE Replit. 
+utiliza conceitos fundamentais de variáveis, condições, loops e funções.
  
  
 ## Recursos adicionais
